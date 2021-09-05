@@ -1,6 +1,10 @@
 body {
     margin-top: -75px;
 }
+
+nav a {
+  text-shadow: 1px 1px black;
+}
 .parallax {
 
     /* Set a specific height */
@@ -27,4 +31,8 @@ body {
   }
   .bg5 {
     background-image: url("../img/RoadTrip5.jpg");
+  }
+
+  .bgbox {
+    background-color: #0004;
   }
